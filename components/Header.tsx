@@ -12,6 +12,7 @@ export default function Header() {
             Contest Demo UI
           </Link>
           <nav className="nav">
+            <Link href="/">Home</Link>
             <Link href="/contests">Contests</Link>
             <Link href="/leaderboard">Leaderboard</Link>
             <Link href="/scoring">Scoring</Link>
